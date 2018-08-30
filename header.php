@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="width=device-width, initial-scale=1" name="viewport" />
  
-    <title>hosp</title>
+    <title>Aviation</title>
     <!-- google font -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet" type="text/css" />
 	<!-- icons -->
@@ -42,7 +42,7 @@
                 <div class="page-logo">
                     <a href="dashboard.php">
                     
-                    <span class="logo-default" style="width:285px;">Aviation Academy</span> </a>
+                    <span class="logo-default" style="width:285px;">Aviation </span> </a>
                 </div>
                 <!-- logo end -->
 				<ul class="nav navbar-nav navbar-left in">
