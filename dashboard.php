@@ -21,7 +21,7 @@
 			                    <div class="col-md-6 col-sm-6 col-xs-12">
 			                        <div class="card">
 			                            <div class="panel-body">
-			                                <h3>New Hospitals</h3>
+			                                <h3>No.of Students</h3>
 			                                <div class="progressbar-xs progress-rounded progress-striped progress ng-isolate-scope active">
 			                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div>
 			                                </div>
@@ -31,7 +31,7 @@
 			                    <div class="col-md-6 col-sm-6 col-xs-12">
 			                        <div class="card">
 			                            <div class="panel-body">
-			                                <h3>Total  Hospitals</h3>
+			                                <h3>No.of Facality</h3>
 			                                <div class="progressbar-xs progress-rounded progress-striped progress ng-isolate-scope active">
 			                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100" style="width: 68%;"></div>
 			                                </div>
@@ -41,7 +41,7 @@
 								<div class="col-md-6 col-sm-6 col-xs-12">
 			                        <div class="card">
 			                            <div class="panel-body">
-			                                <h3>New Hospitals</h3>
+			                                <h3>No.of Wardens</h3>
 			                                <div class="progressbar-xs progress-rounded progress-striped progress ng-isolate-scope active">
 			                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"></div>
 			                                </div>
@@ -51,7 +51,7 @@
 			                    <div class="col-md-6 col-sm-6 col-xs-12">
 			                        <div class="card">
 			                            <div class="panel-body">
-			                                <h3>Total  Hospitals</h3>
+			                                <h3>No.of Workers</h3>
 			                                <div class="progressbar-xs progress-rounded progress-striped progress ng-isolate-scope active">
 			                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100" style="width: 68%;"></div>
 			                                </div>
@@ -64,7 +64,7 @@
 						 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="card card-box">
                               <div class="card-head">
-                                  <header>HOSPITAL SURVEY</header>
+                                  <header>SURVEY</header>
                                   <div class="tools">
                                     <a class="fa fa-repeat btn-color box-refresh" href="javascript:;"></a>
 									<a class="t-collapse btn-color fa fa-chevron-down" href="javascript:;"></a>
