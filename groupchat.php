@@ -45,8 +45,8 @@
                                   <input type="text" class="form-control"  placeholder="" >
                                 </div>
                                 <div class="form-group col-md-6">
-                                  <label for="email">Address1</label>
-                                  <textarea type="textarea" class="form-control"  placeholder="Enter Address" ></textarea>
+                                  <label for="email">User Name</label>
+                                  <input type="text" class="form-control"  placeholder="" >
                                 </div>
                                 <div class="form-group col-md-6">
                                   <label for="email">Address2</label>
@@ -81,42 +81,6 @@
 
                             </div>
                             <button class="btn btn-praimry " type="submit">Submit</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-                    
-                     <div class="row">
-            <div class="col-md-12 col-sm-12">
-                <div class="card card-box">
-                    <div class="card-head">
-                        <header> Registration Details</header>                      
-                    </div>
-                    <div class="card-body" id="bar-parent">
-                       <form class=" pad30 form-horizontal" action=" " method="post"  id="contact_form">
-                            <div class="row">
-                                 <div class="form-group col-md-6">
-                                  <label >User Name</label>
-                                  <input type="text" class="form-control"  name="first_name" id="first_name" placeholder="Enter Name" >
-                                </div>
-                                <div class="form-group col-md-6">
-                                  <label >Email</label>
-                                  <input type="email" class="form-control"  name="last_name" id="last_name" placeholder="Enter Email" >
-
-                                </div>
-                                <div class="form-group col-md-6">
-                                  <label >Password</label>
-                                  <input type="email" class="form-control"  name="last_name" id="last_name" placeholder="Enter Email" >
-
-                                </div>
-                                <div class="form-group col-md-6">
-                                  <label >Retype Password</label>
-                                  <input type="email" class="form-control"  name="last_name" id="last_name" placeholder="Enter Email" >
-
-                                </div>
-                           </div>                          
-                            <button class="btn btn-praimry" type="submit">Submit</button>
                         </form>
                     </div>
                 </div>
