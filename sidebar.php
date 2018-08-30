@@ -51,27 +51,8 @@
                                     </li> 
 	                            </ul>
 	                        </li>
-	                       
-							
-							<li class="nav-item  ">
-	                            <a  href="release_annou.php" class="nav-link "> <i class="material-icons">person</i>
-	                                <span class="title">Release Announcement</span> <span class="arrow"></span>
-	                            </a>
-	                        </li>
-							<li class="nav-item  ">
-	                            <a  href="validations.php" class="nav-link "> <i class="material-icons">person</i>
-	                                <span class="title">Form validations</span> <span class="arrow"></span>
-	                            </a>
-	                        </li>
-							<li class="nav-item  ">
-	                            <a  href="index.php" class="nav-link "> <i class="material-icons">person</i>
-	                                <span class="title">Logout</span> <span class="arrow"></span>
-	                            </a>
-	                        </li>
 	                        
-	                            </ul>
-	                        </li>
-	                    </ul>
+                        </ul>
 	                </div>
                 </div>
             </div>

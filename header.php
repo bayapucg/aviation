@@ -42,7 +42,7 @@
                 <div class="page-logo">
                     <a href="dashboard.php">
                     
-                    <span class="logo-default" >Main Adim Logo</span> </a>
+                    <span class="logo-default" style="width:285px;">Aviation Academy</span> </a>
                 </div>
                 <!-- logo end -->
 				<ul class="nav navbar-nav navbar-left in">
