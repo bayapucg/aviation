@@ -29,42 +29,26 @@
 	                            </a>
 	                           
 	                        </li>
-	                        <li class="nav-item  open ">
-	                            <a  class="nav-link nav-toggle"> <i class="material-icons">person</i>
-	                                <span class="title">Hospital</span>  <span class="selected"></span>
+	                        <li class="nav-item ">
+	                            <a href="addhosp.php" class="nav-link nav-toggle"> <i class="material-icons">person</i>
+	                                <span class="title">Student Registration Form</span> <span class="selected"></span>
                                 	<span class="arrow "></span>
 	                            </a>
-	                            <ul class="sub-menu">
-	                                <li class="nav-item  ">
-	                                    <a href="hosppriview.php" class="nav-link "> <span class="title">View / Modify</span>
-	                                    </a>
-	                                </li>
-	                                <li class="nav-item ">
-	                                    <a href="addhosp.php" class="nav-link "> <span class="title">Add New</span>
-	                                    </a>
-	                                </li>
-	                                
-	                            </ul>
 	                        </li> 
-							<li class="nav-item  open ">
+							<li class="nav-item ">
 	                            <a  class="nav-link nav-toggle"> <i class="material-icons">person</i>
-	                                <span class="title">Chat</span>  <span class="selected"></span>
+	                                <span class="title">Resources</span>  <span class="selected"></span>
                                 	<span class="arrow "></span>
 	                            </a>
-	                         <ul class="sub-menu">
-	                                <li class="nav-item  ">
-	                                    <a href="hospitalchat.php" class="nav-link "> <span class="title">Hospitals</span>
-	                                    </a>
-	                                </li>
-	                                <li class="nav-item ">
-	                                    <a href="groupchat.php" class="nav-link "> <span class="title">Group of Hospitals</span>
-	                                    </a>
-	                                </li> 
-									<li class="nav-item ">
-	                                    <a href="softwaresupport.php" class="nav-link "> <span class="title">Software Support</span>
-	                                    </a>
-	                                </li>
-	                                
+                                <ul class="sub-menu">
+                                    <li class="nav-item  ">
+                                        <a href="hospitalchat.php" class="nav-link "> <span class="title">Lecturer's</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item ">
+                                        <a href="groupchat.php" class="nav-link "> <span class="title">Warden's</span>
+                                        </a>
+                                    </li> 
 	                            </ul>
 	                        </li>
 	                       
